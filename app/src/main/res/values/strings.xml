@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rantone</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="lista_reproduccion_label">Listas de reproduccion</string>
+    <string name="pistas_label">Pistas</string>
+    <string name="listas_header">Nombre</string>
+</resources>
